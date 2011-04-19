@@ -1,4 +1,9 @@
+Webiva Installation
+===================
 
+Ruby / Rails requirements:
+Ruby 1.8.7
+Rails version 2.3.5
 
 ============= Ubuntu 8.10 Installation Instructions ===================
 
